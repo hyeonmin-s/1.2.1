@@ -1,6 +1,5 @@
 # a121_catch_a_turtle.py
 #-----import statements-----
-#changes
 import turtle as trtl
 import random as rand
 
@@ -34,3 +33,5 @@ spot.onclick(spot_clicked)
 
 wn = trtl.Screen()
 wn.mainloop()
+
+aaaaaaa
